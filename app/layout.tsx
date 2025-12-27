@@ -8,9 +8,9 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "SmartPrice India - Compare Prices Across Top Indian Stores",
+  title: "SmartPrice India - Price Comparison for Indian Stores",
   description:
-    "Find the best prices for products across Amazon, Flipkart, Shopsy, and Meesho. Save money on every purchase with instant price comparison.",
+    "Compare prices instantly across Amazon, Flipkart, Shopsy, and Meesho. Find the best deals and save money on every purchase.",
   generator: "v0.app",
   icons: {
     icon: [
